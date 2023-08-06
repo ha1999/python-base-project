@@ -4,9 +4,9 @@
 
 [![pre-commit](https://img.shields.io/badge/pre%20commit-orange?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
 [![Gitlint](https://img.shields.io/badge/gitlint-yellow?logo=git)](https://github.com/jorisroovers/gitlint)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Linting pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/pylint-dev/pylint)
 
-[![Black](https://img.shields.io/badge/black-black?logo=python)](https://github.com/psf/black)
-[![Pylint](https://img.shields.io/badge/pylint-blur?logo=eslint)](https://github.com/pylint-dev/pylint)
 [![Flake8](https://img.shields.io/badge/flake8-green?logo=python)](https://github.com/pylint-dev/pylint)
 
 [![Pytest](https://img.shields.io/badge/pytest-red?logo=pytest)](https://github.com/pytest-dev/pytest)
