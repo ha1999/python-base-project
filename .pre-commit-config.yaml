@@ -15,6 +15,9 @@ repos:
     rev: v2.17.5
     hooks:
       - id: pylint
+        args: [
+            "--rcfile=.pylintrc", # Link to your config file
+          ]
 
   - repo: https://github.com/PyCQA/flake8
     rev: 6.1.0
