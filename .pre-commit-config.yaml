@@ -18,6 +18,9 @@ repos:
         args: [
             "--rcfile=.pylintrc", # Link to your config file
           ]
+        language_version: python3.10
+        additional_dependencies:
+          - "fastapi"
 
   - repo: https://github.com/PyCQA/flake8
     rev: 6.1.0
